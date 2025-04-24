@@ -17,7 +17,6 @@ Markdown dosyasını açarak Nmap komutlarının ne işe yaradığını, nasıl 
 - Firewall atlatma yöntemleri
 - OS ve servis tespiti
 - Ters bağlantı (reverse shell) örneği
-- Ek güvenlik araçları ve kaynak bağlantılar
 
 ## ⚠️ Uyarı
 
