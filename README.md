@@ -9,6 +9,8 @@ Bu proje, Nmap aracının en yaygın kullanılan komutlarının açıklamalarıy
 
 ## 🇹🇷 Nmap Komutları ve Açıklamaları (Türkçe Rehber)
 
+![nmap terminal](https://nmap.org/images/nmap-terminal-ss.png)
+
 📌 Hedef Belirtme ve Temel Seçenekler
 
 | Komut | Açıklama |
