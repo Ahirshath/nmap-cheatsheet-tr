@@ -120,7 +120,6 @@ sudo nmap -sS -sV -O -Pn --script vuln <hedef_ip>
 - Ping ve port tarama parametreleri
 - Firewall atlatma yöntemleri
 - OS ve servis tespiti
-- Ters bağlantı (reverse shell) örneği
 
 ## ⚠️ Uyarı
 
